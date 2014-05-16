@@ -1,0 +1,10 @@
+{
+	"installed_packages":
+	[
+		"Python PEP8 Autoformat",
+		"SideBarEnhancements",
+		"sublimelint",
+		"SublimeLinter",
+		"Terminal"
+	]
+}
