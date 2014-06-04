@@ -1,7 +1,7 @@
 {
 
-    // Set to true to insert spaces when tab is pressed
-    "translate_tabs_to_spaces": true,
+	// Set to true to insert spaces when tab is pressed
+	"translate_tabs_to_spaces": true,
 
 	"color_scheme": "Packages/User/Monokai (SL).tmTheme",
 	"font_size": 14,
@@ -9,5 +9,5 @@
 	[
 		"Vintage"
 	],
-	"translate_tabs_to_spaces": true
+	"trim_trailing_white_space_on_save": true
 }
